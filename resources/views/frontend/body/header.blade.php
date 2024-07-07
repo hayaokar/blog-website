@@ -42,7 +42,7 @@
 
 
                             <div class="header__btn d-none d-md-block">
-                                <a href="contact.html" class="btn">Contact me</a>
+                                <a href="{{route('contact.me')}}" class="btn">Contact me</a>
                             </div>
                         </nav>
                     </div>
